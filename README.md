@@ -46,8 +46,3 @@ A great example of combining logic, UI enhancement, and real-world application i
 movie_booking.exe
 ```
 --- 
-
-# 👨‍💻 Authors
-- Mohamed Aslam F
-- Rishant M
-- Aadhithya Balaji
